@@ -1,14 +1,14 @@
 # ❤️ Heart Disease Prediction System
 
--A Machine Learning–based Heart Disease Prediction System that predicts whether a person is likely to have heart disease based on medical parameters.
+- A Machine Learning–based Heart Disease Prediction System that predicts whether a person is likely to have heart disease based on medical parameters.
 
--This project uses Python, MySQL, and ML algorithms to analyze patient data and provide predictions.
+- This project uses Python, MySQL, and ML algorithms to analyze patient data and provide predictions.
 
 ## 📌 Project Overview
 
--Heart disease is one of the leading causes of death worldwide. Early prediction can help in timely treatment and prevention.
+- Heart disease is one of the leading causes of death worldwide. Early prediction can help in timely treatment and prevention.
 
--This system uses a trained machine learning model on a medical dataset to predict heart disease risk.
+- This system uses a trained machine learning model on a medical dataset to predict heart disease risk.
 
 ## 🛠️ Technologies Used
 
@@ -48,19 +48,19 @@ File: heart.csv
 
 **Contains medical attributes such as:**
 
--Age
+- Age
 
--Sex
+- Sex
 
--Chest pain type
+- Chest pain type
 
--Blood pressure
+- Blood pressure
 
--Cholesterol
+- Cholesterol
 
--Heart rate
+- Heart rate
 
--ECG results
+- ECG results
 
 Target (0 = No Heart Disease, 1 = Heart Disease)
 
@@ -68,11 +68,11 @@ Target (0 = No Heart Disease, 1 = Heart Disease)
 
 1️⃣ **Software Requirements**
 
--Python 3.8 or higher
+- Python 3.8 or higher
 
--MySQL Server
+- MySQL Server
 
--Code Editor (VS Code recommended)
+- Code Editor (VS Code recommended)
 
 
 2️⃣ **Python Libraries**
@@ -116,21 +116,21 @@ python main.py
 
 # 📈 Output
 
--Displays prediction results in the console
+- Displays prediction results in the console
 
--Indicates whether the patient has heart disease or not
+- Indicates whether the patient has heart disease or not
 
--Sample outputs are provided in OUTPUT.docx
+- Sample outputs are provided in OUTPUT.docx
 
 # ✅ Features
 
--User-friendly prediction flow
+- User-friendly prediction flow
 
--Accurate ML-based results
+- Accurate ML-based results
 
--Database integration using MySQL
+- Database integration using MySQL
 
--Easy to run and modify
+- Easy to run and modify
 
--Well-structured codebase
+- Well-structured codebase
 
